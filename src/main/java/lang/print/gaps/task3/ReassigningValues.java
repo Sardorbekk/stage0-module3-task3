@@ -2,13 +2,13 @@ package lang.print.gaps.task3;
 
 public class ReassigningValues {
     public static void main(String[] args) {
-        int first=1,second=10,third=100;
+        int first=1;
+        int second=10;
+        int third=100;
         System.out.println(first);
         System.out.println(second);
         System.out.println(third);
-        int  linkToFirst=15;
-        int linkToSecond=6;
-        int linkToThird=4;
+        int  linkToFirst=15, linkToSecond=6, linkToThird=4;
         first=linkToFirst;
         second=linkToSecond;
         third=linkToThird;
