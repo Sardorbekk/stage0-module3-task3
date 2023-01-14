@@ -13,8 +13,8 @@ public class ReassigningValues {
         linkToSecond=second;
         linkToThird=third;
         first=15;
-        second=4;
-        third=6;
+        second=6;
+        third=4;
         System.out.println(first);
         System.out.println(second);
         System.out.println(third);
